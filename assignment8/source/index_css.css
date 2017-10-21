@@ -1,0 +1,111 @@
+.h{
+    background-image: url("https://wallpaperbrowse.com/media/images/518164-backgrounds.jpg");
+    background-size: 100% 680px ,cover;
+    font-family: "comic sans ms";
+    color: white;
+
+    }
+.heading{
+    font-family: "comic sans ms";
+    text-align: center;
+    margin-top: 25px;
+    color: white;
+}
+.body1{
+    text-align: center;
+    font-size: 17px;
+}
+.button {
+    background-color: yellowgreen;
+    border: black;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.c1{
+
+    border-style: none;
+    border-color: black;
+    font-size:15pt;
+    height:32px;
+    width:300px;
+}
+.b1{ background-color: white;
+    font-weight: bolder;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-style: none;
+    border-color: white;
+    background-color: white;
+
+}
+.b2{
+    background-color: white;
+    font-weight: bolder;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-style: none;
+    border-color: white;
+    background-color: white;
+}
+.b3{
+    background-color: white;
+    margin-left: 100px;
+    color: black;
+    margin-right: 100px;
+    font-weight: bolder;
+    border-style: none;
+    border-color: white;
+    background-color: white;
+}
+.b4{
+    background-color: white;
+    margin-left: 100px;
+    font-weight: bolder;
+    margin-right: 100px;
+    color: black;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+}
+.b5{
+    background-color: white;
+    color: black;
+    margin-left: 100px;
+    font-weight: bolder;
+    margin-right: 100px;
+    border-style: none;
+    border-color: white;
+    background-color: white;
+}
+.b6{
+    background-color: white;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-weight: bolder;
+    border-style: none;
+    border-color: white;
+    background-color: white;
+}
+.b7{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-style: none;
+    color: black;
+    font-weight: bolder;
+    border-color: white;
+    background-color: white;
+}
+
+.h3{
+    color: white;
+}

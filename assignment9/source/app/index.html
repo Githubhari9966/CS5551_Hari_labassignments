@@ -109,6 +109,13 @@
           <a  href="" ng-click="getaudio(venue.name)" style="font-size: x-large; color: #5e5e5e; text-align: center;">{{venue.name}}</a>
         </li>
       </ul>
+      <div  ng-controller="View1Ctrl" style="top: 200px">
+        <div class="menu" id="div_SearchContainer">
+        <input type="text" id="txt_placeName" placeholder="Enter to add the venue" style="margin-left: 300px"/>
+          <button id="btn_getReview" ng-click="getVenues()">add venue</button><br>
+
+          <input type="text" id="txt_placeName" placeholder="Enter to remove the venue" style="margin-left: 300px"/>
+          <button id="btn_getReview" ng-click="getVenues()">remove Venue</button>      </div>
 
     </div>
     <div id="div_ReviewList" style="display:none;"  >
